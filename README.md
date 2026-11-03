@@ -15,7 +15,7 @@
 ### [Glow](https://github.com/kdiiizzll/Glow)
 Full-screen Matrix digital rain for Windows, plus a Paris-at-night scene with a sparkling Eiffel Tower, a starfield, fireworks and a lava lamp. Syncs across PCs and comes with a one-tap control panel.
 
-**[▶ Live demo](https://kdiiizzll.github.io/matrix-screensaver/)** · **[Code](https://github.com/kdiiizzll/Glow)**
+**[▶ Live demo](https://kdiiizzll.github.io/Glow/)** · **[Code](https://github.com/kdiiizzll/Glow)**
 
 `HTML5 Canvas` `JavaScript` `PowerShell`
 
