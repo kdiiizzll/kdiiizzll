@@ -8,14 +8,14 @@
 <table>
 <tr>
 <td width="55%">
-<a href="https://github.com/kdiiizzll/matrix-screensaver"><img src="https://raw.githubusercontent.com/kdiiizzll/matrix-screensaver/main/preview.png" alt="Matrix Screensaver preview" width="100%"></a>
+<a href="https://github.com/kdiiizzll/Glow"><img src="https://raw.githubusercontent.com/kdiiizzll/Glow/main/preview.png" alt="Glow preview" width="100%"></a>
 </td>
 <td>
 
-### [Matrix Screensaver](https://github.com/kdiiizzll/matrix-screensaver)
+### [Glow](https://github.com/kdiiizzll/Glow)
 Full-screen Matrix digital rain for Windows, plus a Paris-at-night scene with a sparkling Eiffel Tower, a starfield, fireworks and a lava lamp. Syncs across PCs and comes with a one-tap control panel.
 
-**[▶ Live demo](https://kdiiizzll.github.io/matrix-screensaver/)** · **[Code](https://github.com/kdiiizzll/matrix-screensaver)**
+**[▶ Live demo](https://kdiiizzll.github.io/matrix-screensaver/)** · **[Code](https://github.com/kdiiizzll/Glow)**
 
 `HTML5 Canvas` `JavaScript` `PowerShell`
 
